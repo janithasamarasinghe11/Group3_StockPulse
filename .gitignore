@@ -1,0 +1,40 @@
+# StockPulse - Compiled files
+target/
+
+# IDE Files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Maven wrapper
+.mvn/
+
+# Uploaded images (generated at runtime)
+src/main/webapp/uploads/
+
+# Eclipse specific
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+local.properties
